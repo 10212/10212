@@ -1,6 +1,8 @@
 ### Hi there 👋
+- 😄 You can call me JY-T
 - 🌱 I’m currently learning Golang and Cloud Native
-- 
+- 🔭 Current research direction is NDN(Named Data Networking) and INC(In-network Computing)
+- ……
 <!--
 **10212/10212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
