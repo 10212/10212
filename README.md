@@ -1,10 +1,11 @@
-### Hi there 👋
-- 😄 You can call me tjy
+### 
+- 😄 tjy
 - 🌱 I’m currently learning Golang and Cloud Native
 - 🔭 Current research direction is NDN(Named Data Networking) and INC(In-network Computing)
 - The old/past blog has been deprecated
 - ……
 <!--
+10212.io
 **10212/10212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
